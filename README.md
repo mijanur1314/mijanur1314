@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mijanur1314
-- 👀 I’m interested in front end web development 
+- 👀 I’m interested in front end web development & software development 
 - 🌱 I’m currently learning full stack
 - 💞️ I’m looking to collaborate on senior developer 
 - 📫 How to reach me through my mail id: skmijanurrahaman1314@gmail.com 
